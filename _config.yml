@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Maximiliano Zorondo"
 title_separator          : "-"
 name                     : &name "Maximiliano Zorondo"
-description              : &description "Max's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Economist researching Universal Basic Income, agent-based macroeconomic modeling, and the future of work"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mzorondo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Max Zorondo"
   pronouns         : # example: "she/her"  
-  bio              : "I'm an eclectic researcher: I moved from plasma fusion physics to Agent-based economic models"
+  bio              : "Economist studying Universal Basic Income, agent-based macroeconomic modeling, and entrepreneurship. Formerly a plasma physicist."
   location         : "Milan, Italy"
   employer         : "Università Cattolica del Sacro Cuore"
   uri              : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL - Add your real ORCID iD here, e.g. https://orcid.org/0000-0000-0000-0000
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

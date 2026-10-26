@@ -1,5 +1,5 @@
 ---
-title: "Modelo de dispersión de radiación de Thomson para Plasma Focus ("Thomson Scattering Model for Plasma Focus")"
+title: "Modelo de dispersión de radiación de Thomson para Plasma Focus ["Thomson Scattering Model for Plasma Focus"]"
 collection: talks
 type: "Oral presentation"
 permalink: /talks/2020-11-01-modelo-dispersion-thomson

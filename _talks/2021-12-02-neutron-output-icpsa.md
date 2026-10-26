@@ -7,4 +7,4 @@ venue: "14th International Conference on Plasma Science and Applications"
 date: 2021-12-02
 location: "Online"
 ---
-Presented with C. Pavez, A. Sepúlveda, J. Pedreros, G. Avaria, J. Moreno, B. Bora, S. Davis, J. Jain, and L. Soto.
+Work done by C. Pavez, M. Zorondo, A. Sepúlveda, J. Pedreros, G. Avaria, J. Moreno, B. Bora, S. Davis, J. Jain, and L. Soto. Presented by C. Pavez.
